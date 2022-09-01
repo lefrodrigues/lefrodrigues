@@ -4,7 +4,6 @@
   <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api?username=lefrodrigues&show_icons=true&theme=aura&include_all_commits=true&count_public=true"/>
   <img width="41%" height="200vh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lefrodrigues&layout=compact&langs_count=7&theme=aura"/>
  </div>
- ##
  
  <div style="display: inline_block"><br>
    <img align="center" alt="Leandro-Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -17,7 +16,7 @@
    </div>
 
   
- ##
+
  
 <div> 
   <a href="https://instagram.com/lfrodrigues84" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
