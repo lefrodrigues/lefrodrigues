@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=35&center=true&vCenter=true&width=1000&lines=Olá,+Sou+Leandro+Rodrigues;Cursando+Desenvolvimento+de+Sistemas;Estudo+na+FATEC-BS,+em+Santos/SP;Seja+Bem-Vindo!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=35&center=true&vCenter=true&width=1000&lines=Olá,+Sou+Leandro+Rodrigues;Desenvolvedor+Fullstack;Seja+Bem-Vindo!)](https://git.io/typing-svg)
 <div align="center" display="inline">
   <a href="https://github.com/lefrodrigues">
   <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api?username=lefrodrigues&show_icons=true&theme=aura&include_all_commits=true&count_public=true"/>
@@ -17,7 +17,7 @@
  
 <div align="center"> 
   <a href="https://instagram.com/lfrodrigues84" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:lefrodrigues1984@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:l.frodrigues@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/leandro-f-rodrigues" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  
